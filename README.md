@@ -1,5 +1,5 @@
 # all-you-need-in-html
-Created with CodeSandbo
+Created with CodeSandbox
 This repository contains all you need for starting an html page 
 1. h tag
 2. p tag 
