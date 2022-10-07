@@ -1,7 +1,5 @@
 # all-you-need-in-html
-Created with CodeSandbox
-![image](https://user-images.githubusercontent.com/88227668/194458946-a0459bc8-aefe-420e-ad2c-e0b4489a65bf.png)
-
+Created with CodeSandbo
 This repository contains all you need for starting an html page 
 1. h tag
 2. p tag 
@@ -12,3 +10,12 @@ This repository contains all you need for starting an html page
 7. br , hr
 8. comments
 
+
+
+
+
+
+ 
+![image](https://user-images.githubusercontent.com/88227668/194459412-d487bee7-164e-49a2-9ac6-3832870dbc07.png)
+
+ 
